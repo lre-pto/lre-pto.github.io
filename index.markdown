@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome to Lantern Road PTO!
 ---
-
-# Welcome to Lantern Road PTO!
 
 ## Current PTO Officers and Contacts
 
